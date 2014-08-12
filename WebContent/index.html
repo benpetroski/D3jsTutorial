@@ -77,7 +77,7 @@ var svg = d3.select("body").append("svg")
 var link = svg.append("g").selectAll(".link"),
     node = svg.append("g").selectAll(".node");
 
-d3.json("https://gist.githubusercontent.com/benpetroski/1d6e6abfe5c1437d9acd/raw/e956e4c7b972fa033dc72f18be2a47109b4cfb83/courses.json", function(error, classes) {
+d3.json("https://gist.githubusercontent.com/benpetroski/1d6e6abfe5c1437d9acd/raw/c1e37249c4d223ca3702ff305fee0dad0f5410ce/courses.json", function(error, classes) {
   var nodes = cluster.nodes(packageHierarchy(classes)),
       links = packageImports(nodes);
 

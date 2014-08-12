@@ -1,0 +1,259 @@
+	Course	Title	Description
+100	CS101	Introduction to Computing Principles	 
+100	CS103	Mathematical Foundations of Computing	Prerequisite: CS106A or equivalent.
+100	CS105	Introduction to Computers	Prerequisite: minimal math skills.
+100	CS106A	Programming Methodology (ENGR 70A)	
+100	CS106B	Programming Abstractions (ENGR 70B)	Prerequisite: CS106A or equivalent. Summer quarter enrollment is limited; application required.
+100	CS106L	Standard C++ Programming Laboratory	Prerequisite: consent of instructor. Corequisite: CS106B or CS106X.
+100	CS106X	Programming Abstractions (Accelerated) (ENGR 70X)	Prerequisite: excellence in 106A or equivalent, or consent of instructor.
+100	CS107	Computer Organization and Systems	Prerequisite: CS106B or X, or consent of instructor.
+100	CS108	Object-Oriented Systems Design	Prerequisite: CS107.
+100	CS109	Introduction to Probability for Computer Scientists	Prerequisite: CS103, CS106B or X, multivariate calculus at the level of MATH51 or CME 100 or equivalent.
+100	CS109L	Statistical Computing with R Laboratory	
+100	CS110	Principles of Computer Systems	Prerequisite: CS107.
+100	CS116	From Nand to Tetris	Prerequisite: programming experience (Introduction to CSor equivalent).
+100	CS121	Introduction to Artificial Intelligence	Prerequisite: CS103 or CS103B, and facility with differential calculus, vector algebra, and probability theory.
+100	CS122	Artificial Intelligence: Philosophy, Ethics, & Impact (SYMSYS 122)	
+100	CS124	From Languages to Information (LINGUIST 180, LINGUIST 280)	Prerequisite: CS103, CS107, CS109.
+100	CS131	Computer Vision: Foundations and Applications	Prerequisite: Students should be familiar with Matlab (i.e. have programmed in Matlab before) and Linux; plus Calculus &amp; Linear Algebra.
+100	CS140	Operating Systems and Systems Programming	Prerequisite: CS110.
+100	CS142	Web Applications	Prerequisite: CS107, CS108.
+100	CS143	Compilers	Prerequisite: CS103, CS103B, CS107.
+100	CS144	Introduction to Computer Networking	Prerequisite: CS110.
+100	CS145	Introduction to Databases	Prerequisite: CS103, CS107, equivalent.
+100	CS147	Introduction to Human-Computer Interaction Design	Prerequisite: CS106B, CS106BX, equivalent.
+100	CS147L	Human-Computer Interaction Technology Laboratory	
+100	CS148	Introduction to Computer Graphics and Imaging	Prerequisite: CS107, MATH51.
+100	CS149	Parallel Computing	
+100	CS154	Introduction to Automata and Complexity Theory	Prerequisite: CS103, CS103B.
+100	CS155	Computer and Network Security	Prerequisite: CS110. Recommended: Unix.
+100	CS157	Logic and Automated Reasoning	Prerequisite: CS03, CS103B.
+100	CS161	Design and Analysis of Algorithms	Prerequisite: CS103, CS103B, CS109, STATS116.
+100	CS161L	Implementation of Algorithms	
+100	CS164	Computing with Physical Objects: Algorithms for Shape and Motion	Prerequisite: CS103, CS103B, CS109, STATS116, CS106B, CS106X, consent.
+100	CS166	Data Structures	Prerequisite: CS107, CS161.
+100	CS167	Readings in Algorithms	Prerequisite: CS161.
+100	CS168	The Modern Algorithmic Toolbox	Prerequisite: CS107, CS161, consent.
+100	CS170	Stanford Laptop Orchestra: Composition, Coding, and Performance (MUSIC 128)	
+100	CS173	A Computational Tour of the Human Genome	Prerequisite: CS107.
+100	CS178	Digital Photography	Prerequisite: camera.
+100	CS181	Computers, Ethics, and Public Policy	Prerequisite: CS106B, CS106X.
+100	CS181W	Computers, Ethics, and Public Policy (WIM)	
+100	CS190	Software Design Studio	Prerequisite: CS140.
+100	CS191	Senior Project	
+100	CS191W	Writing Intensive Senior Project (WIM)	
+100	CS192	Programming Service Project	
+100	CS193A	Android Programming	Prerequisite: 106B, programming.
+100	CS193C	Client-Side Internet Technologies	Prerequisite: programming.
+100	CS193D	Professional Software Development with C++	Prerequisite: programming.
+100	CS193E	Mac OS X Cocoa Programming	
+100	CS193I	Introduction to iOS Programming	Prerequisite: CS106A, equivalent.
+100	CS193N	C# and the .NET Platform	Prerequisite: programming.
+100	CS193P	iPhone and iPad Application Programming	Prerequisite: CS107, CS108, CS110, programming. Recommended: UNIX, graphics, databases.
+100	CS193R	Green Computing	Prerequisite: CS107, CS110.
+100	CS193S	Scalable Web 2.0 Programming	Prerequisite: CS107, CS108.
+100	CS194	Software Project	Prerequisite: CS110, CS161.
+100	CS194W	Software Project (WIM)	
+100	CS195W	Research Project in Artificial Intelligence	Prerequisite: CS221, CS222, consent.
+100	CS196	Computer Consulting
+100	CS197	Mainframe and Workstation Computer Consulting	
+100	CS198	Teaching Computer Science	
+100	CS198P	Special Projects on the Teaching of Computer Science	
+100	CS199	Independent Work	
+100	CS199P	Independent Work	
+200	CS200	Care and Feeding of Large-Scale Web Services	
+200	CS202	Law for Computer Science Professionals	
+200	CS204	Legal Informatics	Prerequisite: programming.
+200	CS205A	Mathematical Methods for Robotics, Vision, and Graphics	Prerequisite: CS106B, CS106X, MATH51, equivalent.
+200	CS205B	Mathematical Methods for Fluids, Solids, and Interfaces	Prerequisite: CS205A or equivalent.
+200	CS206	Technical Foundations of Electronic Commerce	Prerequisite: CS103, CS107, equivalent.
+200	CS207	The Economics of Software	
+200	CS210A	Software Project Experience with Corporate Partners	Prerequisite: CS109, CS110.
+200	CS210B	Software Project Experience with Corporate Partners	Prerequisite: CS210A
+200	CS221	Artificial Intelligence: Principles and Techniques	Prerequisite: CS103, CS103B, CS103X, CS106B, CS106X, CS107, CS109.
+200	CS222	Rational Agency and Intelligent Interaction (PHIL 358)	Prerequisite: logic.
+200	CS223A	Introduction to Robotics (ME 320)	
+200	CS224M	Multi-Agent Systems	Prerequisite: probability.
+200	CS224N	Natural Language Processing (LINGUIST 284)	Prerequisite: CS124, CS121, CS221.
+200	CS224S	Spoken Language Processing	Prerequisite: CS124, CS221, CS224N, CS229.
+200	CS224U	Natural Language Understanding (LINGUIST 188, LINGUIST 288)	Prerequisite: LINGUIST180, CS124, CS224N, CS224S, CS221, LINGUIST130A, LINGUIST130B, CS157, PHIL150
+200	CS224W	Social and Information Networks	
+200	CS225A	Experimental Robotics	Prerequisite: CS223A, equivalent.
+200	CS225B	Robot Programming Laboratory	Prerequisite: programming.
+200	CS226	Statistical Techniques in Robotics	
+200	CS227B	General Game Playing	Prerequisite: programming. Recommended: CS103, equivalent.
+200	CS228	Probabilistic Graphical Models: Principles and Techniques	Prerequisite: probability, algorithms.
+200	CS228T	Probabilistic Graphical Models: Advanced Methods	Prerequisite: CS228.
+200	CS229	Machine Learning	Prerequisite: linear, probability, statistics.
+200	CS229A	Applied Machine Learning	Prerequisite: programming, CS106B, CS106X, Math51.
+200	CS229T	Statistical Learning Theory (STATS231)	Prerequisite: STATS315A, CS229, EE364a.
+200	CS231A	Computer Vision: From 3D Reconstruction to Recognition	Prerequisite: linear, probability, statistics.
+200	CS231AL	Introduction to Computer Vision Laboratory	
+200	CS231B	The Cutting Edge of Computer Vision	Prerequisite: CS221, CS228, CS229, CS2223B.
+200	CS231M	Mobile Computer Vision	Prerequisite: linear, probability, CS131A, CS231A, CS232, equivalent.
+200	CS232	Digital Image Processing (EE368)	
+200	CS235	Applied Robot Design for Non-Robot-Designers: How to Fix, Modify, Design, and Build	
+200	CS238	Decision Making under Uncertainty (AA 228)	Prerequisite: probability, programming.
+200	CS239	Advanced Topics in Sequential Decision Making (AA 229)	Prerequisite: AA228, CS238, CS221.
+200	CS240	Advanced Topics in Operating Systems	Prerequisite: CS140, equivalent.
+200	CS240C	Advanced Operating Systems Implementation	Prerequisite: CS140, consent.
+200	CS240D	Distributed Storage Systems	Prerequisite: CS140, consent.
+200	CS240E	Embedded Wireless Systems	
+200	CS240H	Functional Systems in Haskell	Prerequisite: CS106B, CS106X.
+200	CS241	Secure Web Programming	
+200	CS242	Programming Languages	Prerequisite: CS107, programming.
+200	CS243	Program Analysis and Optimizations	Prerequisite: CS103, CS103B, CS107.
+200	CS244	Advanced Topics in Networking	Prerequisite: CS144, equivalent.
+200	CS244B	Distributed Systems	Prerequisite: CS144, CS249A.
+200	CS244C	Readings and Projects in Distributed Systems	
+200	CS244E	Networked Wireless Systems	Prerequisite: EE284.
+200	CS245	Database Systems Principles	Prerequisite: CS145, CS161.
+200	CS246	Mining Massive Data Sets	Prerequisite: CS107, CS145, CS109, STAT116, equivalent.
+200	CS246H	Mining Massive Data Sets Hadoop Lab	Prerequisite: CS107, equivalent.
+200	CS247	Human-Computer Interaction Design Studio	Prerequisite: CS147, CS106A, programming.
+200	CS247L	Human Computer Interaction Technology Laboratory	
+200	CS248	Interactive Computer Graphics	Prerequisite: CS148.
+200	CS249A	Object-Oriented Programming from a Modeling and Simulation Perspective	Prerequisite: CS106B, CS106X, CS107, programming. Recommended: 193D.
+200	CS249B	Large-scale Software Development	
+200	CS254	Computational Complexity	Prerequisite: CS154, equivalent, math.
+200	CS255	Introduction to Cryptography	Prerequisite: probability.
+200	CS258	Introduction to Programming Language Theory	Prerequisite: CS154, CS157, PHIL160A.
+200	CS259	Security Analysis of Network Protocols	
+200	CS259C	Elliptic Curves in Cryptography	
+200	CS259D	Data Mining for Cyber Security	Prerequisite: CS110, CS140, CS144, CS155, CS246, CS229.
+200	CS259Q	Quantum Computing	Prerequisite: linear, probability, algorithms.
+200	CS261	Optimization and Algorithmic Paradigms	Prerequisite: CS161, equivalent.
+200	CS262	Computational Genomics (BIOMEDIN 262)	Prerequisite: CS161, algorithms. Recommended: genetics.
+200	CS263	Algorithms for Modern Data Models (MS&E 317)	Prerequisite: CS261, algorithms.
+200	CS264	Beyond Worst-Case Analysis	Prerequisite: CS161. Recommended: CS261.
+200	CS265	Randomized Algorithms and Probabilistic Analysis (CME 309)	Prerequisite: CS161, STAT116, equivalent, consent.
+200	CS266	Parameterized Algorithms and Complexity	Prerequisite: CS154, CS161, math.
+200	CS267	Graph Algorithms	Prerequisite: CS161, math.
+200	CS268	Geometric Algorithms	Prerequisite: CS161, algorithms. Recommended: 164.
+200	CS270	Modeling Biomedical Systems: Ontology, Terminology, Problem Solving (BIOMEDIN 210)	
+200	CS272	Introduction to Biomedical Informatics Research Methodology (BIOE 212, BIOMEDIN 212, GENE 212)	Prerequisite: BIOMEDIN210, BIOMEDIN211, BIOMEDIN214, BIOMEDIN217, consent.
+200	CS273A	A Computational Tour of the Human Genome (BIOMEDIN 273A, DBIO 273A)	Prerequisite: online.
+200	CS274	Representations and Algorithms for Computational Molecular Biology (BIOE 214, BIOMEDIN 214, GENE 214)	Prerequisite: programming, consent.
+200	CS275	Translational Bioinformatics (BIOMEDIN 217)	Prerequisite: CS106A, programming, statistics, biology.
+200	CS275A	Symbolic Musical Information (MUSIC 253)	
+200	CS275B	Music Query, Analysis, and Style Simulation (MUSIC 254)	Prerequisite: CS253, consent.
+200	CS276	Information Retrieval and Web Search (LINGUIST 286)	Prerequisite: CS107, CS109, CS161.
+200	CS277	Experimental Haptics	Prerequisite: experience with C++. Recommended: CS148, CS248, CS223A.
+200	CS279	Computational Biology: Structure and Organization of Biomolecules and Cells	Prerequisite: CS106A, programming, biology.
+200	CS294A	Research Project in Artificial Intelligence	Prerequisite: CS221, CS222, consent.
+200	CS294H	Research Project in Human-Computer Interaction	Prerequisite CS377, CS147, CS247, consent.
+200	CS294S	Research Project in Software Systems and Security	Prerequisite: CS103, CS107.
+200	CS294W	Writing Intensive Research Project in Computer Science	
+200	CS295	Software Engineering	Prerequisite: CS108. Recommended: CS140, CS143, or CS145.
+200	CS298	Seminar on Teaching Introductory Computer Science	Prerequisite: consent.
+300	CS300	Departmental Lecture Series	
+300	CS301	Teaching and Communication Seminar	
+300	CS302	Tech Law with Progressive Minds	
+300	CS303	Designing Computer Science Experiments	
+300	CS309	Industrial Lectureships in Computer Science	
+300	CS309A	Cloud Computing	
+300	CS315A	Parallel Computer Architecture and Programming	Prerequisite: EE282, and reasonable programming experience.
+300	CS316	Advanced Multi-Core Systems (EE382E)	Prerequisite: EE108B. Recommended: CS149, EE282.
+300	CS319	Topics in Digital Systems	
+300	CS321	Information Processing for Sensor Networks	Prerequisite: CS144A, EE284, algebra, probability.
+300	CS324	Robot Perception	
+300	CS326A	Motion Planning	
+300	CS327A	Advanced Robotic Manipulation	Prerequisite: CS223A, equivalent.
+300	CS328	Topics in Computer Vision	Prerequisite: CS205, CS223B, equivalent.
+300	CS329	Topics in Artificial Intelligence	
+300	CS331A	Advanced Reading in Computer Vision	Prerequisite: some experience in research with one of the following fields: computer vision, image processing, computer graphics, machine learning.
+300	CS331B	3D Representation and Recognition	Prerequisite: Some experience in research with one of the following fields: computer vision, image processing, computer graphics, machine learning.
+300	CS334A	Convex Optimization I (CME 364A, EE364A)	Prerequisite: linear algebra such as EE263, basic probability.
+300	CS340	Topics in Computer Systems	
+300	CS340V	Networked Systems for Virtual Worlds	Prerequisite: some systems and networking background. May be repeated for credit.
+300	CS341	Project in Mining Massive Data Sets	
+300	CS342	Programming Language Design	Prerequisite: 376A.
+300	CS343	Advanced Topics in Compilers	Prerequisite: 243.
+300	CS344	Topics in Computer Networks	Prerequisite: CS144, 244, or network programming experience.
+300	CS344B	Advanced Topics in Distributed Systems	
+300	CS344C	Cloud Simulation Systems	
+300	CS344E	Advanced Wireless Networks	
+300	CS345	Advanced Topics in Database Systems	Prerequisite: 145. Recommended: 245.
+300	CS345D	Topics in Database Systems	Prerequisite: CS145 or equivalent.
+300	CS346	Database System Implementation	Prerequisite: 145, 245, programming experience in C++.
+300	CS347	Parallel and Distributed Data Management	
+300	CS348A	Computer Graphics: Geometric Modeling	Prerequisite: linear algebra. Recommended: 164, 248.
+300	CS348B	Computer Graphics: Image Synthesis Techniques	Prerequisite: 248 or equivalent. Recommended: Fourier analysis or digital signal processing.
+300	CS348C	Computer Graphics: Animation Techniques	
+300	CS349	Topics in Programming Systems	
+300	CS349C	Topics in Programming Systems: Readings in Distributed Systems	
+300	CS351	Topics in Complexity Theory and Lower Bounds	Prerequisite: 154 or equivalent.
+300	CS353	Algebraic Logic	Prerequisite: 157 or PHIL 160A, 161; or equivalents.
+300	CS354	Topics in Circuit Complexity	Prerequisite: CS254 or the equivalent mathematical maturity.
+300	CS355	Advanced Topics in Cryptography	Prerequisite: 255.
+300	CS357	Advanced Topics in Formal Methods	Prerequisite: 256.
+300	CS357D	Static Analysis of Programs	
+300	CS358	Topics in Programming Language Theory	Prerequisite: 154, 157, 258, or equivalents. (Staff)
+300	CS359	Topics in the Theory of Computation	
+300	CS359G	Graph Partitioning and Expanders	
+300	CS361A	Advanced Algorithms	Prerequisite: 161 or 261, or equivalent.
+300	CS361B	Advanced Algorithms	Prerequisite: 161 or 261, or equivalent.
+300	CS362	Algorithmic Frontiers: Effective Algorithms for Large [and Small] Data	Prerequisite: A good background in probability theory, linear algebra, and algorithms. A high level of mathematical maturity will be assumed.
+300	CS364A	Algorithmic Game Theory	Prerequisite: 154N and 161, or equivalents.
+300	CS364B	Topics in Algorithmic Game Theory	Prerequisite: 364A or instructor permission.
+300	CS366	Graph Partitioning and Expanders	Prerequisite: Basic course in linear algebra and a course on algorithms, preferably; also a basic understanding of linear programming and of duality.
+300	CS367	Algebraic Graph Algorithms	Prerequisite: CS154, CS161, or the equivalent mathematical maturity.
+300	CS367A	Parallel Computation	
+300	CS367B	Parallel Computation	
+300	CS368	Advanced Geometric Algorithms	Prerequisite: 368 or equivalent.
+300	CS369	Topics in Analysis of Algorithms	
+300	CS369A	Advanced Geometric Algorithms	Prerequisite: 368 or equivalent.
+300	CS369F	Topics in Analysis of Algorithms	
+300	CS369M	Algorithms for Modern Massive Data Set Analysis	Prerequisite: algorithms such as  CS161, linear algebra such as MATH51, and probability theory such as  CS109, or equivalents.
+300	CS369P	Polyhedral Techyniques in Combinatorial Optimization	Prerequisite: Students should know basic computation theory and the material of CS261; in particular the fundamentals of linear programming, approximation algorithms and the notion of NP-completeness.
+300	CS371	Computational Biology in Four Dimensions (CME 371)	Prerequisite: CS106A or equivalent, and an introductory course in biology or biochemistry. Recommended: some experience in mathematical modeling (does not need to be a formal course).
+300	CS374	Algorithms in Biology (BIOMEDIN 374)	Prerequisite: 161, 262 or 274, or BIOCHEM 218, or equivalents.
+300	CS376	Human-Computer Interaction Research	prerequisite.
+300	CS377	Topics in Human-Computer Interaction	
+300	CS377A	User Centered Design Innovation: Need Finding and Concept Creation	Prerequisite: One of the following - CS77, 147, 247; ME 216A, 377; EDUC 200B.
+300	CS377B	User-Centered Design Innovation: User-Centered Concept Development	Prerequisite: One of the following - CS77, 147, 247; ME 216A, 377; EDUC 200B.
+300	CS377D	Topics in Learning and Technology: d.compress - Designing Calm (EDUC 328A)	
+300	CS377G	Digital Multimedia Tools and Environments	
+300	CS377I	Prototyping Interactive Systems	
+300	CS377L	Learning in a Networked World: Learning Analytics in Technology-Enhanced Education (EDUC 298)	
+300	CS377P	Peace Innovation: Learning How Technology Can Promote Global Harmony in 30 Years	
+300	CS377S	Designing Applications That See	
+300	CS377T	Behavior Design for Better Health	
+300	CS377V	Creating Health Habits with Social and Mobile Technologies	
+300	CS377W	HCI Issues in Wearable Computing	Prerequisite: One of the following: CS147 or CS247.
+300	CS378	Phenomenological Foundations of Cognition, Language, and Computation	
+300	CS379	Interdisciplinary Topics	
+300	CS379A	Computational Drug Discovery	
+300	CS379B	Reasoning and Learning in Cognitive Systems	
+300	CS379C	Computational Models of the Neocortex	Prerequisite: basic probability theory, algorithms, and statistics.
+300	CS379L	Designing Liberation Technology (POLISCI 337T)	Prerequisite: consent of instructor(s). Design Institute class; see http://dschool.stanford.edu.
+300	CS379X	Stanford Intellectual Property Exchange (SIPX)	Prerequisite: consent of instructor.
+300	CS390A	Curricular Practical Training	
+300	CS390B	Curricular Practical Training	
+300	CS390C	Curricular Practical Training	
+300	CS393	Computer Laboratory	Prerequisite: consent of instructor.
+300	CS395	Independent Database Project	Prerequisite: consent of instructor.
+300	CS399	Independent Project	
+300	CS399P	Independent Project	
+400	CS402	Beyond Bits and Atoms: Designing Technological Tools (EDUC 236X)	
+400	CS402L	Beyond Bits and Atoms - Lab (EDUC 211X)	
+400	CS422	Intelligent Avatar Laboratory	Prerequisite: CS106B or X, or equivalent. Experience with virtual worlds (such as Second Life or World of Warcraft) a plus.
+400	CS424M	Learning Analytics and Computational Modeling in Social Science (EDUC 390X)	
+400	CS424P	Extracting Social Meaning and Sentiment (LINGUIST 287)	Prerequisite: CS124 or 221 or 229 or permission of instructors.
+400	CS431	High-Level Vision: Object Representation (PSYCH 250)	
+400	CS442	High Productivity and Performance with Domain-specific Languages in Scala	Prerequisite: Systems course such as CS140, CS143 or CS149, and expertise is a particular domain and desire to improve productivity and performance of computation.
+400	CS448	Topics in Computer Graphics	
+400	CS448B	Data Visualization	Prerequisite: one of 147, 148, or equivalent.
+400	CS448G	Research Topics in Interactive Data Analysis	Prerequisite: CS448B or consent of instructor.
+400	CS448M	Simulation of Human Movement	Prerequisite: CS248 and CS205A, or equivalent.
+400	CS448S	Topics in Computer Graphics: Beyond Programmable Shading	Prerequisite: Students should be comfortable with OpenGL and/or Direct3D and have had an introductory computer architecture course such as CS248 or equivalent.
+400	CS448X	Math and Computer Science behind Special Effects	
+400	CS450	Introduction to Biotechnology	
+400	CS468	Topics in Geometric Algorithms:Data-Driven Shape Analysis	Prerequisite: Math 52 or equivalent, basic coding.
+400	CS469	Algorithms in Mobile Applications	Prerequisite: CS161.
+400	CS476A	Music, Computing, and Design I: Software Paradigms for Computer Music (MUSIC 256A)	Prerequisite: experience in C/C++ and/or Java.
+400	CS476B	Music, Computing, Design II: Mobile Music (MUSIC 256B)	Prerequisite: MUSIC 256A.
+400	CS477	Reinventing Interactive Systems	
+400	CS478	Computational Photography	Prerequisite: CS178 or coursework in graphics or vision.
+400	CS499	Advanced Reading and Research	Prerequisite: consent of instructor.
+400	CS499P	Advanced Reading and Research	Prerequisite: consent of instructor.

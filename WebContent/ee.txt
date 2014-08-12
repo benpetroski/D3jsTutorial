@@ -1,0 +1,213 @@
+	Course	Title	Description
+100	EE100	The Electrical Engineering Profession	
+100	EE101	Introduction to Circuits	Prerequisite: ENGR 40.
+100	EE101A	Circuits I	Prerequisite: Physics 43
+100	EE101B	Circuits II	Prerequisite: EE101A, EE102A.
+100	EE101S	Circuits II	Prerequisite: 101A. Same as EE101B but with reduced work load.  Cannot be used to fulfill EEMS depth or breadth requirements.
+100	EE102A	Signal Processing and Linear Systems I	Prerequisite: MATH 53 or ENGR 155A.
+100	EE102B	Signal Processing and Linear Systems II	Prerequisite: EE102A.
+100	EE103	Introduction to Matrix Methods (CME 103)	Prerequisite: MATH 51.
+100	EE108	Digital System Design	
+100	EE109	Digital Systems Design Lab	Prerequisite: 108B, and CS106B or X.
+100	EE111	Electronics I	Prerequisite: Engineering 40. Corequisite: 101.
+100	EE112	Electronics II	Prerequisite: 101, 102, 111.
+100	EE113	Electronic Circuits	Prerequisite: 102, 112.
+100	EE114	Fundamentals of Analog Integrated Circuit Design (EE214A)	Prerequisite: 101B. GER:DB-EngrAppSci
+100	EE114S	Fundamentals of Analog Integrated Circuit Design	Prerequisite: 101B.
+100	EE116	Semiconductor Device Physics	Prerequisite: ENGR 40. Corequisite: 101B.
+100	EE118	Introduction to Mechatronics (ME 210)	Prerequisite: ENGR 40, CS106, or equivalents.
+100	EE122	Analog Circuits Laboratory	Prerequisite: ENGR 40 or equivalent.
+100	EE122A	Analog Circuits Laboratory	Prerequisite: basic electronics laboratory experience with solid working knowledge of circuit analysis, Fourier and Laplace methods.
+100	EE122B	Introduction to Biomedical Electronics	Prerequisite: EE122A or equivalent hands-on mixed-signal design experience and solid working knowledge of EE122A topics (see course description).
+100	EE124	Introduction to Neuroelectrical Engineering	Prerequisite: EE101A and EE102A.
+100	EE133	Analog Communications Design Laboratory (EE233)	Prerequisite: EE101B. Undergraduate students enroll in EE133 and Graduate students enroll in EE233. Recommended: EE114/214A.
+100	EE134	Introduction to Photonics	Prerequisite: 41 or equivalent.
+100	EE136	Introduction to Nanophotonics and Nanostructures	Prerequisite: basic familiarity with electromagnetic and quantum mechanical waves and semiconductors at the level of EE41 or equivalent.
+100	EE141M	Engineering Electromagnetics	Prerequisite: 102A, MATH 52.
+100	EE142	Engineering Electromagnetics	
+100	EE151	Sustainable Energy Systems	
+100	EE152	Green Electronics	
+100	EE153	Power Electronics (EE253)	
+100	EE168	Introduction to Digital Image Processing	Prerequisite: Matlab programming.
+100	EE169	Introduction to Bioimaging	Prerequisite: EE102A, EE102B
+100	EE178	Probabilistic Systems Analysis	Prerequisite: basic calculus and linear algebra.
+100	EE179	Analog and Digital Communication Systems	Prerequisite: 102A.
+100	EE180	Digital Systems Architecture	Prerequisite: 108, CS106B.
+100	EE182K	Computer Organization and Design	Prerequisite: ENGR 40, CS107. Recommended: CS121 or equivalent.
+100	EE183	Advanced Logic Design Laboratory	Prerequisite: 121, 182 (may be taken concurrently); must know basic logic design and have dealt with lab equipment.
+100	EE190	Special Studies or Projects in Electrical Engineering	
+100	EE191	Special Studies and Reports in Electrical Engineering	
+100	EE191A	Special Studies and Reports in Electrical Engineering	
+100	EE191W	Special Studies and Reports in Electrical Engineering (WIM)	
+200	EE202	Electrical Engineering in Biology and Medicine	Prerequisite: familiarity with circuit instrumentation techniques as in 101B.
+200	EE203	The Entrepreneurial Engineer	
+200	EE204	Business Management for Electrical Engineers and Computer Scientists	Prerequisite: graduate standing.
+200	EE204S	Business Management for Electrical Engineers and Computer Scientists	
+200	EE212	Integrated Circuit Fabrication Processes	
+200	EE213	Digital MOS Integrated Circuits	Prerequisite: 101B, 108A. Recommended: 271.
+200	EE214A	Fundamentals of Analog Integrated Circuit Design (EE114)	Prerequisite: 101B. GER:DB-EngrAppSci
+200	EE214B	Advanced Analog Integrated Circuit Design	Prerequisite: EE114/214A.
+200	EE216	Principles and Models of Semiconductor Devices	Prerequisite: 116 or equivalent.
+200	EE217	Electron and Ion Beams for Semiconductor Processing	Prerequisite: 212.
+200	EE222	Applied Quantum Mechanics I	Prerequisite: MATH 52 and 53, PHYSICS65 (or PHYSICS43 and 45).
+200	EE223	Applied Quantum Mechanics II	Prerequisite: 222.
+200	EE225	Bio-chips, Imaging and Nanomedicine (MATSCI 382, SBIO 225)	
+200	EE228	Basic Physics for Solid State Electronics	Prerequisite: course in modern physics.
+200	EE230	Biophotonics: Light in Biology	
+200	EE233	Analog Communications Design Laboratory (EE133)	Prerequisite: EE101B. Undergraduate students enroll in EE133 and Graduate students enroll in EE233. Recommended: EE114/214A.
+200	EE234	Photonics Laboratory	Prerequisite: EE242 or equivalent.  Recommended: EE236A.
+200	EE236A	Modern Optics	Prerequisite: EE141 or familiarity with electromagnetism and plane waves.
+200	EE236AL	MODERN OPTICS- LABORATORY	
+200	EE236B	Guided Waves	Prerequisite: EE236A and EE242 or familiarity with differential form of Maxwell's equations.
+200	EE236C	Lasers	Prerequisite: EE236B and familiarity with modern physics and semiconductor physics. Recommended: EE216 and EE223 (either may be taken concurrently).
+200	EE237	Solar Energy Conversion	
+200	EE241	Waves I	Prerequisite: 142 or equivalent, or other wave course.
+200	EE242	Electromagnetic Waves	Prerequisite: 141 or PHYSICS120.
+200	EE243	Semiconductor Optoelectronic Devices	Prerequisite: semiconductor devices and solid state physics such as EE216 or equivalent.
+200	EE244	Communication Engineering Transmission Systems	Prerequisite: senior or graduate standing in Electrical Engineering, or consent of instructor.
+200	EE247	Introduction to Optical Fiber Communications	Prerequisite: 102A, 242 or consent of instructor.
+200	EE248	Fundamentals of Noise Processes	Prerequisite: elementary device, circuit, and electromagnetic waves to the level of 101A,B and 242.
+200	EE251	High-Frequency Circuit Design Laboratory	
+200	EE252	Antennas	Prerequisite: EE141 or Physics 120 or equivalent.  Enrollment capacity limited to 25 students.
+200	EE253	Power Electronics (EE153)	
+200	EE254	Advanced Topics in Power Electronics	
+200	EE256	Numerical Electromagnetics	Prerequisite: 242 or equivalent.
+200	EE257	Applied Optimization Laboratory (Geophys 258) (GEOPHYS 258)	
+200	EE261	The Fourier Transform and Its Applications	Prerequisite: Math through ODEs, basic linear algebra, Comfort with sums and discrete signals, Fourier series at the level of 102A
+200	EE262	Two-Dimensional Imaging	Prerequisite: EE261. Recommended: EE278B, EE279.
+200	EE263	Introduction to Linear Dynamical Systems (CME 263)	Prerequisite: linear algebra and matrices as in MATH 103; differential equations and Laplace transforms as in EE102A.
+200	EE264	Digital Signal Processing	Prerequisite: EE102A and EE102B . Recommended: EE261, EE278B.
+200	EE265	Digital Signal Processing Laboratory	Prerequisite: 102A,B. Recommended: 261.
+200	EE266	Stochastic Control (MS&E 251)	Prerequisite: EE263, EE278A or equivalent
+200	EE271	Introduction to VLSI Systems	Prerequisite: 101A, 108A and 108B; familiarity with transistors, logic design, Verilog and digital system organization
+200	EE272	Design Projects in VLSI Systems	
+200	EE273	Digital Systems Engineering	Prerequisite: EE101A and EE108A. Recommended: EE114/214A.
+200	EE275	Logic Design	Prerequisite: 121 or equivalent.
+200	EE278	Introduction to Statistical Signal Processing	Prerequisite: EE178 and linear systems and Fourier transforms at the level of EE102A,B or EE261.
+200	EE279	Introduction to Digital Communication	Prerequisite: 179 or 261, and 178 or 278
+200	EE282	Computer Systems Architecture	Prerequisite: EE108B. Recommended: CS140.
+200	EE284	Introduction to Computer Networks	
+200	EE290A	Curricular Practical Training for Electrical Engineers	Prerequisite: for 290B, EEMS and PhD students who have received a Satisfactory (&quot;S&quot;) grade in EE290A; for 290C, EEPhD degree candidacy and an &quot;S&quot; grade in EE290B; for 290D, EEPhD degree candidacy, an &quot;S&quot; grade in EE290C and instructor consent.
+200	EE290B	Curricular Practical Training for Electrical Engineers	Prerequisite: for 290B, EEMS and PhD students who have received a Satisfactory (&quot;S&quot;) grade in EE290A; for 290C, EEPhD degree candidacy and an &quot;S&quot; grade in EE290B; for 290D, EEPhD degree candidacy, an &quot;S&quot; grade in EE290C and instructor consent.
+200	EE290C	Curricular Practical Training for Electrical Engineers	Prerequisite: for 290B, EEMS and PhD students who have received a Satisfactory (&quot;S&quot;) grade in EE290A; for 290C, EEPhD degree candidacy and an &quot;S&quot; grade in EE290B; for 290D, EEPhD degree candidacy, an &quot;S&quot; grade in EE290C and instructor consent.
+200	EE290D	Curricular Practical Training for Electrical Engineers	Prerequisite: for 290B, EEMS and PhD students who have received a Satisfactory (&quot;S&quot;) grade in EE290A; for 290C, EEPhD degree candidacy and an &quot;S&quot; grade in EE290B; for 290D, EEPhD degree candidacy, an &quot;S&quot; grade in EE290C and instructor consent.
+200	EE292B	Micro and Nanoscale Biosensing for Molecular Diagnostics	
+200	EE292C	Chemical Vapor Deposition and Epitaxy for Integrated Circuits and Nanostructures	
+200	EE292D	Statistical Learning and Pattern Classification	
+200	EE292H	Engineering and Climate Change	
+200	EE292I	Insanely Great Products: How do they get built?	
+200	EE292K	Intelligent Energy Projects	Prerequisite: Consent of instructor. Basic probability (EE278B), optimization (EE364A), Matlab and C++ programming.  Experience with cvx a plus.
+200	EE292L	Nanomanufacturing	Prerequisite: background in device physics and process technology. Recommended: EE116, EE216, EE212
+200	EE292M	Parallel Processors Beyond Multi-Core Processing	Prerequisite: EE108B and EE282.  Recommended: CS140.
+200	EE292P	Power Management Integrated Circuits	Prerequisite: EE214A or equivalent
+200	EE292T	SmartGrids and Advanced Power Systems Seminar (CEE272T)	
+200	EE293A	Solar Cells, Fuel Cells, and Batteries: Materials for the Energy Solution (ENERGY 293A, MATSCI 156, MATSCI 256)	
+200	EE293B	Fundamentals of Energy Processes (ENERGY 293B)	
+300	EE300	Master's Thesis and Thesis Research	
+300	EE303	Autonomous Implantable Systems	Prerequisite: EE252 or equivalent.
+300	EE304	Neuromorphics: Brains in Silicon (BIOE 313)	Prerequisite: EE114 &amp; EE108A.
+300	EE308	Advanced Circuit Techniques	
+300	EE309	Semiconductor Memory Devices and Technology	
+300	EE310	Integrated Circuits Technology and Design Seminar	Prerequisite: EE216, EE316.May be repeated for credit
+300	EE311	Advanced Integrated Circuits Technology	Prerequisite: EE212, EE216 or equivalent.
+300	EE314A	RF Integrated Circuit Design	Prerequisite: EE214B.
+300	EE314B	Advanced RF Integrated Circuit Design	Prerequisite: EE314A or equivalent course in RF or microwave.
+300	EE314S	RF Integrated Circuit Design	Prerequisite: 214.
+300	EE315A	VLSI Signal Conditioning Circuits	Prerequisite: EE214B.
+300	EE315B	VLSI Data Conversion Circuits	Prerequisite: EE214B. Recommended: EE315A.
+300	EE315S	VLSI Signal Conditioning Circuits	
+300	EE316	Advanced VLSI Devices	Prerequisite: 212 and 216, or equivalent.
+300	EE318	Logic Synthesis of VLSI Circuits	Prerequisite: familiarity with logic design, algorithm development, and programming.
+300	EE319	Advanced Nanoelectronic Devices and Technology	Prerequisite: 216, 316.
+300	EE320	Nanoelectronics	Prerequisite: Undergraduate device physics, EE222, EE216, EE316. Recommended courses: EE223, EE228, EE311.
+300	EE323	Energy in Electronics	
+300	EE327	Properties of Semiconductor Materials	Prerequisite: EE216 or equivalent.
+300	EE328	Physics of Advanced Semiconductor Devices	Prerequisite: 216. Recommended: 316.
+300	EE329	The Electronic Structure of Surfaces and Interfaces (PHOTON 329)	Prerequisite: PHYSICS70 and MATSCI 199/209, or consent of instructor.
+300	EE331	Biophotonics: Light in Medicine and Biology	
+300	EE332	Laser Dynamics	Prerequisite: 236C.
+300	EE334	Micro and Nano Optical Device Design	Prerequisite: EE242 or equivalent
+300	EE336	Nanophotonics (MATSCI 346)	Prerequisite: Electromagnetic theory at the level of 242.
+300	EE340	Optical Micro- and Nano-Cavities	Prerequisite: Advanced undergraduate or basic graduate level knowledge of electromagnetics, quantum.
+300	EE343	Advanced Optoelectronic Devices	Prerequisite: 222 or equivalent quantum mechanics, 243. Recommended: 223.
+300	EE345	Optical Fiber Communication Laboratory	Prerequisite: Undergraduate physics and optics.
+300	EE346	Introduction to Nonlinear Optics	Prerequisite: 242, 236C.
+300	EE347	Optical Methods in Engineering Science	Prerequisite: 236A or 366, or equivalent.
+300	EE348	Advanced Optical Fiber Communications	Prerequisite: 247.
+300	EE349	Advanced Topics in Nano-Optics and Plasmonics	
+300	EE351	Digital Switching in Telecommunications	Prerequisite: 244 or 374 or equivalent.
+300	EE352	Electromagnetic Waves in the Ionosphere and Magnetosphere	Prerequisite: 142 or equivalent. (Helliwell)
+300	EE355	Imaging Radar and Applications (GEOPHYS 265)	Prerequisite: EE261. Recommended: EE254, EE278B, EE279.
+300	EE356	Resonant Power Converters and Magnetic Design	
+300	EE359	Wireless Communications	Prerequisite: 279 or instructor consent.
+300	EE360	Multiuser Wireless Systems and Networks	Prerequisite: EE359.
+300	EE361	Principles of Cooperation in Wireless Networks	Prerequisite: 376A
+300	EE363	Linear Dynamic Systems	Prerequisite: 263 or equivalent; basic probability.
+300	EE364A	Convex Optimization I (CME 364A, CS334A)	Prerequisite: linear algebra such as EE263, basic probability.
+300	EE364B	Convex Optimization II (CME 364B)	Prerequisite: 364A.
+300	EE366	Introduction to Fourier Optics	Prerequisite: familiarity with Fourier analysis. Recommended: 261.
+300	EE368	Digital Image Processing (CS232)	
+300	EE369A	Medical Imaging Systems I	Prerequisite: EE261
+300	EE369B	Medical Imaging Systems II	Prerequisite: EE261
+300	EE369C	Medical Image Reconstruction	Prerequisite: 369B.
+300	EE371	Advanced VLSI Circuit Design	Prerequisite: 271 and 313, or consent of instructor.
+300	EE373A	Adaptive Signal Processing	
+300	EE373B	Adaptive Neural Networks	Prerequisite: 373A.
+300	EE374	Inference in Graphical Models	Prerequisite: EE178/EE278A, STATS 116, or CS228. Recommended: 376A or STATS 217/218.
+300	EE376A	Information Theory (STATS 376A)	Prerequisite: EE178/278A or STATS 116, or equivalent.
+300	EE376B	Network Information Theory (STATS 376B)	Prerequisite: EE376A.
+300	EE376C	Universal Schemes in Information Theory	Prerequisite: EE278B, EE376A,B.
+300	EE378A	Statistical Signal Processing	Prerequisite: EE278B
+300	EE378B	Inference, Estimation, and Information Processing	Prerequisite: EE278B and EE263 or equivalent. Recommended but not required: EE378A
+300	EE379	Digital Communication	Prerequisite: EE102B, EE278
+300	EE380	Colloquium on Computer Systems	
+300	EE382C	Interconnection Networks	Prerequisite: 282.
+300	EE382E	Advanced Multi-Core Systems (CS316)	Prerequisite: EE108B. Recommended: CS149, EE282.
+300	EE384A	Internet Routing Protocols and Standards	Prerequisite: EE284 or CS144.
+300	EE384B	Multimedia Communication over the Internet	Prerequisite: 284 or CS144. Recommended: 384A.
+300	EE384C	Wireless Local and Wide Area Networks	Prerequisite: EE284 or CS244A.
+300	EE384E	Networked Wireless Systems (CS244E)	Prerequisite: EE284
+300	EE384M	Network Science	Prerequisite: EE178l, EE278A or CS365.
+300	EE384P	Projects: The Programmable Open Mobile Internet (POMI)	Prerequisite: EE284, CS244A, CS144, or equivalent, and programming skills.
+300	EE384S	Performance Engineering of Computer Systems & Networks	Prerequisite: basic networking technologies and probability.
+300	EE384X	Packet Switch Architectures	Prerequisite: EE284 or CS244A. Recommended: EE178, EE278A or EE278B or STAT116.
+300	EE385	Special Seminars in Computer Systems	
+300	EE385A	Robust and Testable Systems Seminar	Prerequisite: consent of instructor.
+300	EE386	Robust System Design	Prerequisite: 108A, 108B, EE282.
+300	EE387	Algebraic Error Control Codes	Prerequisite: elementary probability, linear algebra.
+300	EE388	Modern Coding Theory	Prerequisite: 376A.
+300	EE390	Special Studies or Projects in Electrical Engineering	
+300	EE391	Special Studies and Reports in Electrical Engineering	
+300	EE392C	Advanced Topics in Computer Architecture: Polymorphic Processors	
+300	EE392E	VLSI Signal Processing	Prerequisite: EE102B and EE108A; Recommended: EE264 and EE271.
+300	EE392F	Logic Synthesis of VLSI Circuits	Prerequisite: familiarity with logic design, algorithm development, and programming.
+300	EE392G	Terahertz Technologies and Applications	
+300	EE392I	Seminar on Trends in Computing and Communications	
+300	EE392L	Modern Cellular Communication Systems	Prerequisite: EE359, EE264, EE279, and EE278B, or equivalent.
+300	EE392N	INTELLIGENT ENERGY SYSTEMS	
+300	EE392O	Optimization Projects	Prerequisite: EE364 or consent.
+300	EE392P	Nanoscale Device Physics	Prerequisite: EE216 or equivalent.  Recommended: EE222.
+300	EE392Q	Parallel Processors Beyond Multicore Processing	
+300	EE392R	Analog-to-Digital Conversion	Prerequisite: EE214B or equivalent.
+300	EE392T	Seminar in Chip Test and Debug	Prerequisite: EE271 or EE371.
+300	EE392U	Robust Systems Seminar	
+300	EE392X	Power Electronics Control and Energy-Aware Design	
+300	EE392Z	Random Matrices in Communications	
+300	EE395	Electrical Engineering Instruction: Practice Teaching	
+300	EE396	Engineering Education and Online Learning (EDUC 391X)	
+300	EE398A	Image and Video Compression	Prerequisite: EE261, EE278B.
+300	EE398B	Advanced Topics in Image, Video, and Multimedia Systems	
+400	EE400	Thesis and Thesis Research	
+400	EE402A	Topics in International Technology Management	
+400	EE402S	Topics in International Advanced Technology Research	
+400	EE402T	Entrepreneurship in Asian High-Tech Industries	
+400	EE410	Integrated Circuit Fabrication Laboratory	Prerequisite: EE212, EE216, or consent.
+400	EE412	Advanced Nanofabrication Laboratory	Prerequisite: ENGR341 or EE410, or consent.
+400	EE414	RF Transceiver Design Laboratory	Prerequisite: EE314, EE344.
+400	EE419	High-Frequency Modeling of Semiconductor Devices	
+400	EE464	Semidefinite Optimization and Algebraic Techniques	Prerequisite: EE364A.
+400	EE469B	RF Pulse Design for Magnetic Resonance Imaging	Prerequisite: EE369B.
+400	EE482A	Advanced Computer Organization: Processor Microarchitecture	Prerequisite: EE282.
+400	EE486	Advanced Computer Arithmetic	Prerequisite: EE282.
+400	EE488	Testing Aspects of Computer Systems	Prerequisite: EE275.
+400	EE489	Fault Tolerant Computing Systems	Prerequisite: EE282.
