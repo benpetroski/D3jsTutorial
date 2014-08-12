@@ -161,11 +161,11 @@
 300	CS327A	Advanced Robotic Manipulation	Prerequisite: CS223A, equivalent.
 300	CS328	Topics in Computer Vision	Prerequisite: CS205, CS223B, equivalent.
 300	CS329	Topics in Artificial Intelligence	
-300	CS331A	Advanced Reading in Computer Vision	Prerequisite: some experience in research with one of the following fields: computer vision, image processing, computer graphics, machine learning.
-300	CS331B	3D Representation and Recognition	Prerequisite: Some experience in research with one of the following fields: computer vision, image processing, computer graphics, machine learning.
-300	CS334A	Convex Optimization I (CME 364A, EE364A)	Prerequisite: linear algebra such as EE263, basic probability.
+300	CS331A	Advanced Reading in Computer Vision	Prerequisite: vision, processing, graphics, learning.
+300	CS331B	3D Representation and Recognition	Prerequisite: vision, processing, graphics, learning.
+300	CS334A	Convex Optimization I (CME 364A, EE364A)	Prerequisite: EE263, linear, probability.
 300	CS340	Topics in Computer Systems	
-300	CS340V	Networked Systems for Virtual Worlds	Prerequisite: some systems and networking background. May be repeated for credit.
+300	CS340V	Networked Systems for Virtual Worlds	Prerequisite: networks.
 300	CS341	Project in Mining Massive Data Sets	
 300	CS342	Programming Language Design	Prerequisite: 376A.
 300	CS343	Advanced Topics in Compilers	Prerequisite: 243.
